@@ -71,7 +71,6 @@ Enhance interactivity with simple hover effects like border changes or backgroun
 
 ## CSS Code:
 ```
-/* Reset some default spacing */
 body {
   margin: 0;
   font-family: Arial, sans-serif;
@@ -81,7 +80,6 @@ body {
   padding: 20px;
 }
 
-/* Header styling */
 header {
   text-align: center;
   background-color: #4a90e2;
@@ -100,7 +98,6 @@ header h2, header h3 {
   font-weight: normal;
 }
 
-/* Image and description section */
 section img {
   display: block;
   margin: 20px auto;
@@ -115,7 +112,6 @@ section p {
   font-size: 18px;
 }
 
-/* Interests section */
 section ul {
   max-width: 600px;
   margin: 0 auto;
@@ -127,7 +123,6 @@ section ul li {
   font-size: 16px;
 }
 
-/* Horizontal lines */
 hr {
   margin: 40px auto;
   width: 80%;
